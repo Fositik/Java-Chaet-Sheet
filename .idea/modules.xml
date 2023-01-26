@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Chaet-Sheet.iml" filepath="$PROJECT_DIR$/.idea/Java-Chaet-Sheet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Cheat-Sheet.iml" filepath="$PROJECT_DIR$/Java-Cheat-Sheet.iml" />
     </modules>
   </component>
 </project>
