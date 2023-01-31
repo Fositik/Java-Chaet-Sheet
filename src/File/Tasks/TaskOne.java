@@ -31,7 +31,7 @@ public class TaskOne {
                 case "ls":
                     try {
                         // выведите список элементов директории
-                        System.out.println(Files.list(path).collect(Collectors.toList()));
+                        Files.list(path).collect(Collectors.toList());
                     }
                     catch (IOException e) {
                         System.out.println("Произошла ошибка при запросе содержимого директории.");
