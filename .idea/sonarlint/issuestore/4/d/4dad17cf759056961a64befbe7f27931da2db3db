@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì°¶
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›ä¨·
+W	java:S899"=Do something with the "boolean" value returned by "renameTo".(ªà¥Íûÿÿÿÿ
+i
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(‚õâÚùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§œË

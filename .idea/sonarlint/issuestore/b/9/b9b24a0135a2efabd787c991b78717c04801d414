@@ -1,0 +1,22 @@
+
+]
+java:S1192c"GDefine a constant instead of duplicating this literal "Hello " 3 times.(¨ύ»
+f	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(τ΅μ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘Άίϊÿÿÿÿ
+K
+java:S1854^"5Remove this useless assignment to local variable "x".(Δ“ΐ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(κυ…
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(„£υςωÿÿÿÿ
+i
+java:S1602^"SRemove useless curly braces around statement and then remove useless return keyword(Δ“ΐ
+<
+java:S1481^"&Remove this unused "x" local variable.(Δ“ΐ
+G
+java:S1602b",Remove useless curly braces around statement(―Χ£ύÿÿÿÿ
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(¨ύ»
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(Ψογκÿÿÿÿÿ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(¤…
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Μ–Ίνώÿÿÿÿ
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(ι–δ
+K
+java:S1128"6Remove this unused import 'javax.crypto.spec.PSource'.(•ΏΖ

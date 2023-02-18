@@ -1,0 +1,11 @@
+
+i
+java:S1192"NDefine a constant instead of duplicating this literal "testDirectory" 6 times.(¾²÷‚üÿÿÿÿ
+c
+java:S1192"MDefine a constant instead of duplicating this literal "testFile.txt" 5 times.(‰ºÎº
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì°¶
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Óª·Ñúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ı•›ùÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(Ïöì–
+N	java:S106."9Replace this use of System.out or System.err by a logger.(£‹¤Ã
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(§œË

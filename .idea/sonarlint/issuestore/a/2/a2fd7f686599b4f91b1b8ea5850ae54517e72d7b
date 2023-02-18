@@ -1,0 +1,7 @@
+
+C
+java:S1604"(Make this anonymous inner class a lambda(ßÓİÁÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘¢ßúÿÿÿÿ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éïòøÿÿÿÿ
